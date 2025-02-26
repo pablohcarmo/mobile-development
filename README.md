@@ -1,0 +1,1 @@
+Repositório destinado ao armazenamento dos materiais da disciplina Desenvolvimento Mobile, ministrada pelo Prof. Me. José Picovsky.
